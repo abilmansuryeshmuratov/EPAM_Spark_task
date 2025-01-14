@@ -5,7 +5,7 @@ Valid latitude and longitude values from the OpenCage Geocoding API (for rows mi
 A 4-character Geohash for each valid restaurant coordinate.
 Weather information, matched by Geohash, from a given set of Parquet weather data
 
-.
+
 ├── restaurant_weather_etl.py   # Main ETL logic
 
 ├── zip_unpacker.py             # Script to unzip & merge weather data
