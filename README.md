@@ -7,10 +7,15 @@ Weather information, matched by Geohash, from a given set of Parquet weather dat
 
 .
 ├── restaurant_weather_etl.py   # Main ETL logic
+
 ├── zip_unpacker.py             # Script to unzip & merge weather data
+
 ├── test.py                     # Unit tests
+
 ├── README.md                   # (This file)
+
 ├── requirements.txt            # Dependencies
+
 
 Preparing the Weather Data
 zip_unpacker.py
